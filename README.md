@@ -142,10 +142,7 @@ except urllib.error.HTTPError as error:
 ```
 
 
-## Screen Recording
+## Screen Recording 
 
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-- A working model
-- Demo of the deployed  model
-- Demo of a sample request sent to the endpoint and its response
+You can find the screen recording demo of the deployed model [here](https://www.youtube.com/watch?v=aYwIY_2QGSc).
 
